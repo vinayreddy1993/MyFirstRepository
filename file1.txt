@@ -1,0 +1,2 @@
+file1 data ,it is created in bash and in child master.
+this file has to move to master branch
