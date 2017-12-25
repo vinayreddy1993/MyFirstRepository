@@ -1,1 +1,2 @@
 file4.txt file in master branch
+content of file4 in branch
