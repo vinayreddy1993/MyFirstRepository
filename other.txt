@@ -1,0 +1,1 @@
+other.txt is in master branch and have to send to child branch in local repo
